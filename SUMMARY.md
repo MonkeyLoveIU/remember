@@ -5,3 +5,6 @@
   * [毕业爬山](da-xue-pian/bi-ye-pa-shan.md)
 * [高中篇](gao-zhong-pian.md)
 * [实习篇](shi-xi-pian.md)
+* [初中篇](chu-zhong-pian.md)
+* [小学篇](xiao-xue-pian.md)
+* [家庭篇](jia-ting-pian.md)
